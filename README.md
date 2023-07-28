@@ -23,6 +23,9 @@ I formulated some guidelines before implementing this simulation.
 - Humans can live past 70 timestamps and will get killed
 - Starting health of a human will be 100 and that of a zombie will be 50
 - Most of the parameters can be modified inside `constants.py` file, i.e. how many steps they can take at a time
+<p align="center">
+<img width="104" alt="image" src="https://github.com/Zain-Bin-Arshad/zombie-attack-simulator/assets/49767636/8e4c15ac-7eac-4483-9b3b-c8e04ae8ea83">
+</p>
 
 ### Interactions
 - If humans interact, there is a 40% chance that they will help each other and a 60% that one of them will kill the other for health
