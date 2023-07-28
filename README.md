@@ -1,4 +1,4 @@
-# zombie-attack-simulator
+# Zombie Attack Simulator
 
 So, after binging on "World War Z 🧟‍♂️", it hit me like a zombie apocalypse idea:
 
